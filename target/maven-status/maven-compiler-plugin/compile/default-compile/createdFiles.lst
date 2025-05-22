@@ -1,0 +1,10 @@
+iate\plantcareapp\views\PlantCardManager.class
+iate\plantcareapp\utils\Connector_db.class
+iate\plantcareapp\views\AddPlantView.class
+iate\plantcareapp\models\CareLogEntry.class
+iate\plantcareapp\views\PlantsDetailView.class
+iate\plantcareapp\models\Plant.class
+iate\plantcareapp\dao\CareLogDao.class
+iate\plantcareapp\dao\PlantDao.class
+iate\plantcareapp\views\CareLogView.class
+iate\plantcareapp\views\MainView.class
